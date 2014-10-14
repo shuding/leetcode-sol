@@ -21,4 +21,4 @@
 
 ### 代码
 
-[Python](/sol.py)
+[Python](./sol.py)
