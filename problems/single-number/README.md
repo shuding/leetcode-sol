@@ -8,7 +8,7 @@
 
 异或运算有以下性质（a、b 均为任意整数）：
 
-- ![formula](http://latex.codecogs.com/gif.latex?a%5Coplus%25200%3Da)
+- ![formula]("http://latex.codecogs.com/gif.latex?a\oplus 0=a")
 - ![formula](http://latex.codecogs.com/gif.latex?a%5Coplus%2520a%3D0)
 - ![formula](http://latex.codecogs.com/gif.latex?a%5Coplus%2520b%3Db%5Coplus%2520a)
 - ![formula](http://latex.codecogs.com/gif.latex?(a%5Coplus%2520b)%5Coplus%2520c%3Da%5Coplus%2520(b%5Coplus%2520c))
