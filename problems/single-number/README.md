@@ -8,10 +8,10 @@
 
 异或运算有以下性质（a、b 均为任意整数）：
 
-- ![formula](http://latex.codecogs.com/gif.latex?a\oplus%200=a)
-- ![formula](http://latex.codecogs.com/gif.latex?a\oplus%20a=0)
-- ![formula](http://latex.codecogs.com/gif.latex?a\oplus%20b=b\oplus%20a)
-- ![formula](http://latex.codecogs.com/gif.latex?(a\oplus%20b)\oplus%20c=a\oplus%20(b\oplus%20c))
+- ![formula](http://latex.codecogs.com/gif.latex?a%5Coplus%25200%3Da)
+- ![formula](http://latex.codecogs.com/gif.latex?a%5Coplus%2520a%3D0)
+- ![formula](http://latex.codecogs.com/gif.latex?a%5Coplus%2520b%3Db%5Coplus%2520a)
+- ![formula](http://latex.codecogs.com/gif.latex?(a%5Coplus%2520b)%5Coplus%2520c%3Da%5Coplus%2520(b%5Coplus%2520c))
 
 于是很明显，我们把所有数字异或在一起，出现两次的数字会自己抵消，最终结果即为只出现一次的数字.
 
