@@ -7,6 +7,6 @@ LeetCodeSol
 
 作者：Shu Ding <ds303077135@gmail.com>
 
-以满满的 ♥ 写成！转载请自觉注明本页链接！
+转载请自觉注明本页链接！
 
 MIT 协议.
