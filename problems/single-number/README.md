@@ -6,7 +6,7 @@
 
 这是一个经典问题，可以利用异或运算解决.
 
-异或运算有以下性质（a、b 均为任意整数）：
+异或运算有以下性质（a、b、c 均为任意整数）：
 
 - ![formula](http://latex.codecogs.com/gif.latex?a%5coplus%200=a)
 - ![formula](http://latex.codecogs.com/gif.latex?a%5Coplus%20a=0)
