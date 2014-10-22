@@ -12,3 +12,4 @@
 
 - [Maximum Product Subarray](./maximum-product-subarray)
 - [Evaluate Reverse Polish Notation](./evaluate-reverse-polish-notation)
+- [Single Number](./single-number)
