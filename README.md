@@ -1,7 +1,7 @@
 LeetCodeSol
 ===========
 
-[入口](tree/master/problems)
+[入口](./tree/master/problems)
 
 -----
 
