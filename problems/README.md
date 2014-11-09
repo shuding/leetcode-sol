@@ -7,6 +7,7 @@
 ### Easy
 
 - [Reverse Words in a String](./reverse-words-in-a-string)
+- [Plus One](./plus-one)
 
 ### Medium
 
