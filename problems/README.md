@@ -6,6 +6,7 @@
 
 ### Easy
 
+- [Valid Palindrome](./valid-palindrome)
 - [Reverse Words in a String](./reverse-words-in-a-string)
 - [Plus One](./plus-one)
 - [Length of Last Word](./length-of-last-word)
