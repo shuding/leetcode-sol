@@ -17,3 +17,4 @@
 - [Reverse Words in a String](reverse-words-in-a-string)
 - [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation)
 - [Single Number](single-number)
+- [Pow(x, n)](powx-n)
