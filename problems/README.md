@@ -13,6 +13,7 @@
 
 ### Medium
 
+- [Find Peak Element](find-peak-element)
 - [Maximum Product Subarray](maximum-product-subarray)
 - [Reverse Words in a String](reverse-words-in-a-string)
 - [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation)
