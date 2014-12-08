@@ -8,6 +8,7 @@
 
 - [Valid Palindrome](valid-palindrome)
 - [Path Sum](path-sum)
+- [Minimum Depth of Binary Tree](minimum-depth-of-binary-tree)
 - [Plus One](plus-one)
 - [Length of Last Word](length-of-last-word)
 
