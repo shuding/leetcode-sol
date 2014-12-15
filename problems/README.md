@@ -21,6 +21,7 @@
 - [Word Break](word-break)
 - [Single Number II](single-number-ii)
 - [Single Number](single-number)
+- [Sqrt(x)](sqrtx)
 - [Pow(x, n)](powx-n)
 
 ### Hard
