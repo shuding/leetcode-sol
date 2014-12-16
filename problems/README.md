@@ -22,6 +22,7 @@
 - [Single Number II](single-number-ii)
 - [Single Number](single-number)
 - [Sqrt(x)](sqrtx)
+- [Maximum Subarray](maximum-subarray)
 - [Pow(x, n)](powx-n)
 
 ### Hard
