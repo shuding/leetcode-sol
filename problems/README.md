@@ -9,6 +9,7 @@
 - [Valid Palindrome](valid-palindrome)
 - [Path Sum](path-sum)
 - [Minimum Depth of Binary Tree](minimum-depth-of-binary-tree)
+- [Merge Sorted Array](merge-sorted-array)
 - [Plus One](plus-one)
 - [Length of Last Word](length-of-last-word)
 
