@@ -22,6 +22,8 @@
 - [Word Break](word-break)
 - [Single Number II](single-number-ii)
 - [Single Number](single-number)
+- [Subsets](subsets)
+- [Combinations](combinations)
 - [Sqrt(x)](sqrtx)
 - [Maximum Subarray](maximum-subarray)
 - [Pow(x, n)](powx-n)
