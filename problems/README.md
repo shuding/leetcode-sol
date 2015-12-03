@@ -12,6 +12,9 @@
 - [Merge Sorted Array](merge-sorted-array)
 - [Plus One](plus-one)
 - [Length of Last Word](length-of-last-word)
+- [Palindrome Number](palindrome-number)
+- [String to Integer (atoi)](string-to-integer-atoi)
+- [Reverse Integer](reverse-integer)
 
 ### Medium
 
