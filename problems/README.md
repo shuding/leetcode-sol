@@ -30,6 +30,7 @@
 - [Sqrt(x)](sqrtx)
 - [Maximum Subarray](maximum-subarray)
 - [Pow(x, n)](powx-n)
+- [Super Ugly Number](super-ugly-number)
 
 ### Hard
 
