@@ -1,9 +1,5 @@
 [官方题目列表](https://oj.leetcode.com/problems/)
 
-## 题解 & 代码
-
-题目请自己去官网读 > <.
-
 ### Easy
 
 - [Valid Palindrome](valid-palindrome)
@@ -18,6 +14,9 @@
 
 ### Medium
 
+- [Two Sum](two-sum)
+- [Add Two Numbers](add-two-numbers)
+- [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters)
 - [Find Peak Element](find-peak-element)
 - [Maximum Product Subarray](maximum-product-subarray)
 - [Reverse Words in a String](reverse-words-in-a-string)

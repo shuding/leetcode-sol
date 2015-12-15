@@ -1,11 +1,9 @@
 LeetCodeSol
 ===========
 
-闲来刷几题.
+[Database](https://github.com/quietshu/LeetCodeSol/tree/master/database)
 
-[Database 入口](https://github.com/quietshu/LeetCodeSol/tree/master/database)
-
-[Algorithm 入口](https://github.com/quietshu/LeetCodeSol/tree/master/problems)
+[Algorithm](https://github.com/quietshu/LeetCodeSol/tree/master/algorithm)
 
 -----
 
