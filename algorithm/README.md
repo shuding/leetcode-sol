@@ -14,3 +14,5 @@
 12 | [Integer to Roman](integer-to-roman) | Medium
 13 | [Roman to Integer](roman-to-integer) | Easy
 14 | [Longest Common Prefix](longest-common-prefix) | Easy
+15 | [3Sum](3sum) | Medium
+16 | [3Sum Closest](3sum-closest) | Medium
