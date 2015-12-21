@@ -16,3 +16,14 @@
 14 | [Longest Common Prefix](longest-common-prefix) | Easy
 15 | [3Sum](3sum) | Medium
 16 | [3Sum Closest](3sum-closest) | Medium
+17 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number) | Medium
+18 | |
+19 | [Remove Nth Node From End of List](remove-nth-node-from-end-of-list) | Easy
+20 | [Valid Parentheses](valid-parentheses) | Easy
+21 | [Merge Two Sorted Lists](merge-two-sorted-lists) | Easy
+22 | [Generate Parentheses](generate-parentheses) | Medium
+23 | [Merge k Sorted Lists](merge-k-sorted-lists) | Hard
+24 | [Swap Nodes in Pairs](swap-nodes-in-pairs) | Medium
+25 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group) | Hard
+26 | [Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array) | Easy
+27 | [Remove Element](remove-element) | Easy
