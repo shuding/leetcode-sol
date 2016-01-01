@@ -27,3 +27,5 @@
 25 | [Reverse Nodes in k-Group](reverse-nodes-in-k-group) | Hard
 26 | [Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array) | Easy
 27 | [Remove Element](remove-element) | Easy
+28 | [Implement strStr()](implement-strstr) | Easy
+29 | [Divide Two Integers](divide-two-integers) | Medium
