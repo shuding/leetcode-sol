@@ -17,7 +17,7 @@
 15 | [3Sum](3sum) | Medium
 16 | [3Sum Closest](3sum-closest) | Medium
 17 | [Letter Combinations of a Phone Number](letter-combinations-of-a-phone-number) | Medium
-18 | |
+18 | [4Sum](4sum) | Medium
 19 | [Remove Nth Node From End of List](remove-nth-node-from-end-of-list) | Easy
 20 | [Valid Parentheses](valid-parentheses) | Easy
 21 | [Merge Two Sorted Lists](merge-two-sorted-lists) | Easy
