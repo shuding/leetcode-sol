@@ -1,9 +1,9 @@
 LeetCodeSol
 ===========
 
-[Database](https://github.com/quietshu/LeetCodeSol/tree/master/database)
+[Algorithm](https://github.com/quietshu/leetcode-sol/blob/master/algorithm/README.md)
 
-[Algorithm](https://github.com/quietshu/LeetCodeSol/tree/master/algorithm)
+[Database](https://github.com/quietshu/LeetCodeSol/tree/master/database)
 
 -----
 
