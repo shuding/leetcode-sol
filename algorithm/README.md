@@ -29,3 +29,18 @@
 27 | [Remove Element](remove-element) | Easy
 28 | [Implement strStr()](implement-strstr) | Easy
 29 | [Divide Two Integers](divide-two-integers) | Medium
+30 | [Substring with Concatenation of All Words](substring-with-concatenation-of-all-words) | Hard
+31 | [Next Permutation](next-permutation) | Medium
+32 | [Longest Valid Parentheses](longest-valid-parentheses) | Hard
+33 | [Search in Rotated Sorted Array](search-in-rotated-sorted-array) | Hard
+34 | [Search for a Range](search-for-a-range) | Medium
+35 | [Search Insert Position](search-insert-position) | Medium
+36 | [Valid Sudoku](valid-sudoku) | Easy
+37 | [Sudoku Solver](sudoku-solver) | Hard
+38 | [Count and Say](count-and-say) | Easy
+39 | [Combination Sum](combination-sum) | Medium
+40 | [Combination Sum II](combination-sum-ii) | Medium
+41 | [First Missing Positive](first-missing-positive) | Hard
+42 | [Trapping Rain Water](trapping-rain-water) | Hard
+43 | [Multiply Strings](multiply-strings) | Medium
+44 | [Wildcard Matching](wildcard-matching) | Hard
