@@ -44,3 +44,9 @@
 42 | [Trapping Rain Water](trapping-rain-water) | Hard
 43 | [Multiply Strings](multiply-strings) | Medium
 44 | [Wildcard Matching](wildcard-matching) | Hard
+45 | [Jump Game II](jump-game-ii) | Hard
+46 | [Permutations](permutations) | Medium
+47 | [Permutations II](permutations-ii) | Medium
+48 | [Rotate Image](rotate-image) | Medium
+49 | [Group Anagrams](group-anagrams) | Medium
+50 | [Pow(x, n)](powx-n) | Medium
